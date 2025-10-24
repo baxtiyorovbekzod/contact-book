@@ -11,3 +11,6 @@ class Contact:
             "phone": self.phone,
             "email": self.email
         }
+    
+    def show_info(self):
+        print(f"Ism: {self.name}, Tel: {self.phone}, Email: {self.email}")
