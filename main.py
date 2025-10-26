@@ -36,5 +36,5 @@ def main() -> None:
             print("Dastur tugadi.")
             break
         else:
-            print("Noto'g'ri tanlov!")
+            print("Noto'g'ri tanlov")
 main()

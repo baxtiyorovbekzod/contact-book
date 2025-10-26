@@ -43,4 +43,4 @@ class ContactBook:
                 self.storage.save_all(self.contacts)
                 print(f"{c.name} o‘chirildi!")
                 return
-        print("Bunday kontakt yo‘q!")
+        print("Bunday kontakt yo‘q")

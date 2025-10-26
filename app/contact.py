@@ -13,4 +13,4 @@ class Contact:
         }
     
     def show_info(self):
-        print(f"Ism: {self.name}, Tel: {self.phone}, Email: {self.email}")
+        print(f"Ism: {self.name}, Tel: {self.phone}, Email: {self.email} ")
